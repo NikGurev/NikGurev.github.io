@@ -1,1 +1,1 @@
-# ITMO University project for "web techologies" subject
+ITMO University project for "web techologies" subject
